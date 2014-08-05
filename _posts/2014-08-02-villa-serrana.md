@@ -3,6 +3,7 @@ layout: post
 title:  "Villa Serrana – un lugar único!"
 date:   2014-08-02 17:06:43
 categories: construccion-tradicional interior
+image: villa_serrana/fachada1-thumbnail.jpg
 ---
 
 Villa Serrana, un lugar único en Uruguay.
