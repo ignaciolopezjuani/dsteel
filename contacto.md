@@ -8,4 +8,4 @@ Diego Vazquez
 
 099127710
 
-info@uruguayonsale.com
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
