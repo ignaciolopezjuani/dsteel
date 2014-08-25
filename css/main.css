@@ -253,12 +253,8 @@ color: #2093d1;
   margin: 30px 0;
 }
 
-.post-content ul,
-.post-content ol { padding-left: 20px; }
-
 .post-content img {
-  width: 400px;
-  margin: 1em auto;
+  margin-bottom: 1em;
   display: block;
   padding: 5px;
   border: 1px solid #dedede;
@@ -278,8 +274,6 @@ color: #2093d1;
 
 .post code { padding: 1px 5px; }
 
-.post ul,
-.post ol { margin-left: 1.35em; }
 
 .post pre code { border: none; }
 

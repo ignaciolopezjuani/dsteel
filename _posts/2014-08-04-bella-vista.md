@@ -82,8 +82,7 @@ Finas terminaciones
 	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/platea.jpg" alt="platea.jpg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/render-living.jpg" alt="render-living.jpg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/render-nocturno.jpg" alt="render-nocturno.jpg"></li>
-	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/render.jpg" alt="render.jpg"></li>
-	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/render2.png" alt="render2.pn g"></li>
+	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/render.png" alt="render2.pn g"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/terreno.jpg" alt="terreno.jpg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/vista.jpg" alt="vista.jpg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/bella_vista/vista2.jpg" alt="vista2.jpg"></li>
