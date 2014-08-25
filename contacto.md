@@ -6,6 +6,6 @@ permalink: /contacto/
 
 Diego Vazquez
 
-099127710
+Teléfono: <a href="tel:099127710">099127710</a>
 
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>

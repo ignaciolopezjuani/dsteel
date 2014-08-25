@@ -4,9 +4,18 @@ title: Métodos Constructivos
 permalink: /metodos-constructivos/
 ---
 
-Steel Framing
----
+<p>Es un sistema de <a title="Construcción" href="http://es.wikipedia.org/wiki/Construcci%C3%B3n">construcción</a> formado por un entramado de perfiles obtenidos por el conformado de <a title="Teoría de placas y láminas" href="http://es.wikipedia.org/wiki/Teor%C3%ADa_de_placas_y_l%C3%A1minas">chapas</a> laminadas en frío <a title="Galvanización" href="http://es.wikipedia.org/wiki/Galvanizaci%C3%B3n">galvanizadas</a>.</p>
 
+<p>Los <a title="Perfil" href="http://es.wikipedia.org/wiki/Perfil">perfiles</a> del sistema son fabricados a partir de chapas de acero <a title="Galvanización" href="http://es.wikipedia.org/wiki/Galvanizaci%C3%B3n">galvanizadas</a> de espesores reducidos por conformado en frío. Los perfiles predominantes son los denominados montantes en forma de C que se instalan en posición vertical a 40 o 60 cm de distancia entre sí, que se atornillan en sus extremos a los perfiles denominados solera, de forma en U, que forman los bordes horizontales superiores e inferiores del entramado. Se emplean estos entramados en forma de paneles, piso por piso, anclando las soleras inferiores al piso inferior y la solera superior al cielo y piso superior.</p>
 
-Tradicional
----
+<p>Estos entramados son luego cubiertos con placas de revestimientos tipo <em><a title="Oriented strand board" href="http://es.wikipedia.org/wiki/Oriented_strand_board">oriented strand board</a></em> (OSB) al lado exterior, <a title="Cartón yeso" href="http://es.wikipedia.org/wiki/Cart%C3%B3n_yeso">cartón yeso</a> ‘Pladur’ al lado interior y aislantes como <a title="Lana de roca" href="http://es.wikipedia.org/wiki/Lana_de_roca">lana de roca</a> o <a title="Lana de vidrio" href="http://es.wikipedia.org/wiki/Lana_de_vidrio">lana de vidrio</a>, separados con una <a title="Barrera de vapor" href="http://es.wikipedia.org/wiki/Barrera_de_vapor">barrera de vapor</a>, atornilladas a los montantes y soleras, constituyendo de esta manera un sistema de construcción ‘en seco’, por lo cual se distingue de la construcción tradicional ‘húmeda’ de <a title="Albañilería" href="http://es.wikipedia.org/wiki/Alba%C3%B1iler%C3%ADa">albañilería</a>.</p>
+
+<p>Los perfiles son de espesores entre 0,55 mm hasta 2,5 mm, con anchos de ala entre 30 y 70 mm y alturas desde 35 a 350 mm según sean las exigencias estructurales a que se hallan sometidos. Los montantes pueden llevar perforaciones para permitir el paso de ductos y <a title="Cables" href="http://es.wikipedia.org/wiki/Cables">cables</a> de la instalación eléctrica y de <a title="Agua potable" href="http://es.wikipedia.org/wiki/Agua_potable">agua potable</a>.</p>
+
+<h2>Ventajas</h2>
+
+<p>El <em>Steel Framing</em> provee una gran flexibilidad de diseño,<sup id="cite_ref-0"><a href="http://es.wikipedia.org/wiki/Steel_framing#cite_note-0">1</a></sup> y mayores <a title="Luz (ingeniería)" href="http://es.wikipedia.org/wiki/Luz_%28ingenier%C3%ADa%29">luces</a> que en soluciones de <a title="Madera" href="http://es.wikipedia.org/wiki/Madera">madera</a> y mucho menores pesos propios que las soluciones de <a title="Hormigón armado" href="http://es.wikipedia.org/wiki/Hormig%C3%B3n_armado">hormigón armado</a>. de allí su ventaja de empleo en países en los cuales pueden ocurrir <a title="Terremoto" href="http://es.wikipedia.org/wiki/Terremoto">terremotos</a>. Es una solución que puede reducir costos y tiempos de obra y constituye una solución contemporánea, semiindustrializada y con la eficiencia aportada por la estandarización.</p>
+
+<h2>Utilización</h2>
+
+<p>El sistema <em>Steel Framing</em> es empleado en muchos países, tales como en <a title="América del Norte" href="http://es.wikipedia.org/wiki/Am%C3%A9rica_del_Norte">Norteamérica</a>, <a title="Australia" href="http://es.wikipedia.org/wiki/Australia">Australia</a>, algunos de <a title="Europa" href="http://es.wikipedia.org/wiki/Europa">Europa</a>, siendo destacable el caso de <a title="Chile" href="http://es.wikipedia.org/wiki/Chile">Chile</a> y <a title="Turquía" href="http://es.wikipedia.org/wiki/Turqu%C3%ADa">Turquía</a> donde ha sido adoptado después de los terremotos ocurridos hace pocos años. Además, aplicable a toda clase de construcciones residenciales, comerciales e industriales, caracterizándose por su simplicidad, eficiencia estructural y reducido peso estructural.</p>
