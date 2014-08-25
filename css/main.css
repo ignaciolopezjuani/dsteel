@@ -486,5 +486,11 @@ body {
   .footer-column {
     float: none;
   }
-}
 
+}
+@media screen and (max-width: 650px) {
+  .posts li {
+    float: none;
+    width: 100%;
+  }
+}
