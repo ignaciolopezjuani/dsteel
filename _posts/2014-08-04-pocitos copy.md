@@ -30,7 +30,6 @@ Se trata de un reciclaje de categoría con espacios generosos y amplios volúmen
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/bano4.jpeg" alt="bano4.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/bano5.jpeg" alt="bano5.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/cocina.jpeg" alt="cocina.jpeg"></li>
-	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/cocina.jpeg" alt="cocina.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/dormitorio.jpeg" alt="dormitorio.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/dormitorio2.jpeg" alt="dormitorio2.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/dormitorio3.jpeg" alt="dormitorio3.jpeg"></li>
@@ -41,12 +40,10 @@ Se trata de un reciclaje de categoría con espacios generosos y amplios volúmen
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/living-comedor2.jpeg" alt="living-comedor2."></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/living.jpeg" alt="living.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/living2.jpeg" alt="living2.jpeg"></li>
-	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/living3.jpg" alt="living3.jpg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/parrillero.jpeg" alt="parrillero.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/patio.jpeg" alt="patio.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/patio2.jpeg" alt="patio2.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/patio3.jpeg" alt="patio3.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/pileta-bano.jpeg" alt="pileta-bano.jpeg"></li>
 	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/pileta.jpeg" alt="pileta.jpeg"></li>
-	<li><img src="{{ site.baseurl }}/images/content/posts/pocitos/pocitos1.jpeg" alt="pocitos1.jpeg"></li>
 </ul>

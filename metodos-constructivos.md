@@ -14,7 +14,7 @@ permalink: /metodos-constructivos/
 
 <h2>Ventajas</h2>
 
-<p>El <em>Steel Framing</em> provee una gran flexibilidad de diseño,<sup id="cite_ref-0"><a href="http://es.wikipedia.org/wiki/Steel_framing#cite_note-0">1</a></sup> y mayores <a title="Luz (ingeniería)" href="http://es.wikipedia.org/wiki/Luz_%28ingenier%C3%ADa%29">luces</a> que en soluciones de <a title="Madera" href="http://es.wikipedia.org/wiki/Madera">madera</a> y mucho menores pesos propios que las soluciones de <a title="Hormigón armado" href="http://es.wikipedia.org/wiki/Hormig%C3%B3n_armado">hormigón armado</a>. de allí su ventaja de empleo en países en los cuales pueden ocurrir <a title="Terremoto" href="http://es.wikipedia.org/wiki/Terremoto">terremotos</a>. Es una solución que puede reducir costos y tiempos de obra y constituye una solución contemporánea, semiindustrializada y con la eficiencia aportada por la estandarización.</p>
+<p>El <em>Steel Framing</em> provee una gran flexibilidad de diseño y mayores <a title="Luz (ingeniería)" href="http://es.wikipedia.org/wiki/Luz_%28ingenier%C3%ADa%29">luces</a> que en soluciones de <a title="Madera" href="http://es.wikipedia.org/wiki/Madera">madera</a> y mucho menores pesos propios que las soluciones de <a title="Hormigón armado" href="http://es.wikipedia.org/wiki/Hormig%C3%B3n_armado">hormigón armado</a>. de allí su ventaja de empleo en países en los cuales pueden ocurrir <a title="Terremoto" href="http://es.wikipedia.org/wiki/Terremoto">terremotos</a>. Es una solución que puede reducir costos y tiempos de obra y constituye una solución contemporánea, semiindustrializada y con la eficiencia aportada por la estandarización.</p>
 
 <h2>Utilización</h2>
 
