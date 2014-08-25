@@ -98,7 +98,7 @@ color: #2093d1;
 .site-footer {
   padding: 2%;
   clear: both;
-  background: transparent url("/images/steel-bg.jpg") left top no-repeat;
+  background: transparent url("../images/steel-bg.jpg") left top no-repeat;
   background-size: cover;
   box-sizing: border-box;
 }
