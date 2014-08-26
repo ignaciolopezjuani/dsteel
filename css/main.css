@@ -393,14 +393,14 @@ color: #2093d1;
 
 .page-wrap {
   min-height: 100%;
-  margin-bottom: -130px; 
+  margin-bottom: -110px; 
 }
 .page-wrap:after {
   content: "";
   display: block;
 }
 .site-footer, .page-wrap:after {
-  height: 130px; 
+  height: 110px; 
 }
 
 /* equal-height-columns */
