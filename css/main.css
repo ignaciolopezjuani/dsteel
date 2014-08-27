@@ -212,6 +212,7 @@ color: #2093d1;
 .posts img {
   padding: 5px;
   border: 1px solid #dedede;
+  display: block;
 }
 
 
