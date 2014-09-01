@@ -3,7 +3,7 @@ layout: post
 title:  "Bella Vista – Espectacular"
 date:   2014-08-04 20:06:33
 categories: steel-framing interior
-image: bella_vista/fachada-thumbnail.jpg
+image: bella_vista/fachada.jpg
 ---
 
 Espectacular casa a estrenar en terreno de 1200 m2. Inigualable vista a la Sierra de las Ánimas.
